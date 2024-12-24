@@ -1,4 +1,4 @@
 **BlockCityWars** Video-Game **64bit** 
-App Store Package (.ipa) | **BlockCityWars** Versions Archive
+Archive of App Store Packages (**.ipa**) 
  
  **[ONLY FOR PERSONAL USE]**
